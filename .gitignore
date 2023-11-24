@@ -1,0 +1,14 @@
+.vs/
+.vscode/
+Debug/
+bin/
+obj/
+x64/
+x86/
+*.suo
+*.user
+*.sln.docstates
+*.dll
+*.exe
+*.pdb
+*.userprefs
